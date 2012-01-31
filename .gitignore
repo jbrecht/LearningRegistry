@@ -20,3 +20,13 @@ LR/*.backup
 
 /data-pumps/oai-pmh-data-pump-config.json
 /utils/testconfig.ini
+
+.pydevproject
+
+.project
+
+.settings/org.eclipse.core.resources.prefs
+
+development.ini copy CORRECT
+
+.gitignore
